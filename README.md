@@ -1,5 +1,4 @@
-### Map Files Installation
-The application requires pre-compiled triangle mesh data (`.tri` files) to calculate visibility checks externally without relying on game engine functions.
+# EN
 
 1. Download the maps archive containing the `.tri` files.
 2. Navigate to the following directory on your system: `C:\VINFlow\maps` (if the folder does not exist, run the application once or create it manually).
@@ -11,8 +10,7 @@ And you're done
 ---
 
 
-### Instalacja Plików Map
-Program wymaga plików geometrii siatki map (pliki `.tri`) do zewnętrznego obliczania widoczności celów bez wywoływania funkcji silnika gry.
+# PL
 
 1. Pobierz zip
 2. Przejdź do folderu: `C:\VINFlow\maps`
