@@ -1,9 +1,3 @@
-# VINFlow
-
-A lightweight C++ application framework. To utilize the visual check (Line of Sight) features, map geometry files (`.tri`) must be installed locally.
-
----
-
 ## English Setup Guide
 
 ### Prerequisites
